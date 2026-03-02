@@ -8,7 +8,6 @@ I am passionate about solving complex problems, translating physical-mathematica
 * **Languages:** C++, Python
 * **Data Analysis & Statistics:** Pandas, NumPy, ROOT (CERN Framework)
 * **Experiments & Simulations:** Handling high-noise environmental datasets, Monte Carlo simulations, sensor data analysis (Cosmic Rays Cube, Radio Telescopes)
-* **Currently Learning:** SQL for data extraction and relational database management.
 
 ### 🚀 What I'm currently working on
-- Deepening my knowledge of SQL and Exploratory Data Analysis (EDA) techniques to transition into the industry.
+* **Currently Learning:** SQL for data extraction and relational database management.
