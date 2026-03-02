@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Andrea Scarpino 👋
 
-<!--
-**Andrea22199/Andrea22199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Physics Student** at the University of Milano-Bicocca, with a solid experimental background and a strong focus on **Data Analysis**. 
 
-Here are some ideas to get you started:
+I am passionate about solving complex problems, translating physical-mathematical models into efficient code, and, most importantly, extracting clear insights from noisy datasets. I am currently building a bridge between academic research and the industrial data world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** C++, Python
+* **Data Analysis & Statistics:** Pandas, NumPy, ROOT (CERN Framework)
+* **Experiments & Simulations:** Handling high-noise environmental datasets, Monte Carlo simulations, sensor data analysis (Cosmic Rays Cube, Radio Telescopes)
+* **Currently Learning:** SQL for data extraction and relational database management.
+
+### 🚀 What I'm currently working on
+- Deepening my knowledge of SQL and Exploratory Data Analysis (EDA) techniques to transition into the industry.
